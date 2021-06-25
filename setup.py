@@ -22,7 +22,7 @@ DEPENDENCIES = [
         'scipy >= 1',
         'pandas >= 0.22',
         'matplotlib >= 2',
-        'PyQt5',
+#        'PyQt5',
 ]
 
 # To build documentation of docstrings, Read the Docs (RTD) must install the
